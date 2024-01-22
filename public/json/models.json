@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (1, 'Fiesta')"
+    },
+    {
+        "id": 2,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (2, 'Golf')"
+    },
+    {
+        "id": 3,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (3, 'Corolla')"
+    },
+    {
+        "id": 4,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (4, 'Taurus')"
+    },
+    {
+        "id": 5,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (5, 'Ultima')"
+    },
+    {
+        "id": 6,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (6, 'XC90')"
+    },
+    {
+        "id": 7,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (7, 'ID.3')"
+    },
+    {
+        "id": 8,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (8, 'Focus')"
+    },
+    {
+        "id": 9,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (9, 'A3')"
+    },
+    {
+        "id": 10,
+        "query": "INSERT INTO models (ModelId, Name) VALUES (10, 'Land Cruiser')"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (1,'46875',1,1,2,2,'2023-07-12', true)"
+    },
+    {
+        "id": 2,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (2,'79845',2,2,1,2,'2023-04-10', false)"
+    },
+    {
+        "id": 3,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (3,'75215',3,3,1,1,'2023-08-05', true)"
+    },
+    {
+        "id": 4,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (4,'52536',1,4,3,1,'2023-11-28', false)"
+    },
+    {
+        "id": 5,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (5,'65643',4,5,4,1,'2023-09-10', false)"
+    },
+    {
+        "id": 6,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (6,'10235',5,6,1,3,'2023-08-10', false)"
+    },
+    {
+        "id": 7,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (7,'54865',2,7,5,2,'2023-06-15', false)"
+    },
+    {
+        "id": 8,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (8,'98542',1,1,6,2,'2023-07-10', true)"
+    },
+    {
+        "id": 9,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (9,'45678',1,8,3,2,'2023-07-05', false)"
+    },
+    {
+        "id": 10,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (10,'45823',3,3,1,1,'2023-09-28', false)"
+    },
+    {
+        "id": 11,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (11,'65215',6,9,2,1,'2023-09-12', false)"
+    },
+    {
+        "id": 12,
+        "query": "INSERT INTO Vehicles (Id, RegistrationNo, MakeId, ModelId, ColourId, VehicleTypeId, LastServiceDate, Rented) VALUES (12,'78947',3,10,7,3,'2023-07-31', false)"
+    }
+]

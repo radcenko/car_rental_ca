@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO Rentals (RentalId, UserId, VehicleId, RentalStartDate, RentalEndDate) VALUES (1, 2, 1, '2023-12-31 12:00:00', '2024-01-31 12:00:00')"
+    },
+    { 
+        "id": 2,
+        "query": "INSERT INTO Rentals (RentalId, UserId, VehicleId, RentalStartDate, RentalEndDate) VALUES (2, 2, 3, '2023-12-31 12:00:00', '2024-01-31 12:00:00')"
+    },
+    { 
+        "id": 3,
+        "query": "INSERT INTO Rentals (RentalId, UserId, VehicleId, RentalStartDate, RentalEndDate) VALUES (3, 2, 8, '2023-12-31 12:00:00', '2024-01-31 12:00:00')"
+    }
+]

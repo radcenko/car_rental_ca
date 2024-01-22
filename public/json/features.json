@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (1, 'Heated seats')"
+    },
+    {
+        "id": 2,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (2, 'Cruise control')"
+    },
+    {
+        "id": 3,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (3, 'Reverse camera')"
+    },
+    {
+        "id": 4,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (4, 'Lane-keep assist')"
+    },
+    {
+        "id": 5,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (5, 'Auto parking')"
+    },
+    {
+        "id": 6,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (6, 'Remote start')"
+    },
+    {
+        "id": 7,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (7, 'Quick charge')"
+    },
+    {
+        "id": 8,
+        "query": "INSERT INTO features (FeatureId, Name) VALUES (8, 'Heated steering wheel')"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO makes (MakeId, Name) VALUES (1, 'Ford')"
+    },
+    {
+        "id": 2,
+        "query": "INSERT INTO makes (MakeId, Name) VALUES (2, 'VW')"
+    },
+    {
+        "id": 3,
+        "query": "INSERT INTO makes (MakeId, Name) VALUES (3, 'Toyota')"
+    },
+    {
+        "id": 4,
+        "query": "INSERT INTO makes (MakeId, Name) VALUES (4, 'Nissan')"
+    },
+    {
+        "id": 5,
+        "query": "INSERT INTO makes (MakeId, Name) VALUES (5, 'Volvo')"
+    },
+    {
+        "id": 6,
+        "query": "INSERT INTO makes (MakeId, Name) VALUES (6, 'Audi')"
+    }
+]

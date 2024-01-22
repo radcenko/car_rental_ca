@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO VehicleTypes (VehicleTypeId, Name) VALUES (1, 'Sedan')"
+    },
+    {
+        "id": 2,
+        "query": "INSERT INTO VehicleTypes (VehicleTypeId, Name) VALUES (2, 'Hatchback')"
+    },
+    {
+        "id": 3,
+        "query": "INSERT INTO VehicleTypes (VehicleTypeId, Name) VALUES (3, 'SUV')"
+    }
+] 

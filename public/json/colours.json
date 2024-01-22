@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (1, 'White')"
+    },
+    {
+        "id": 2,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (2, 'Black')"
+    },
+    {
+        "id": 3,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (3, 'Blue')"
+    },
+    {
+        "id": 4,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (4, 'Silver')"
+    },
+    {
+        "id": 5,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (5, 'Green')"
+    },
+    {
+        "id": 6,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (6, 'Red')"
+    },
+    {
+        "id": 7,
+        "query": "INSERT INTO Colours (ColourId, Name) VALUES (7, 'Tan')"
+    }
+]
